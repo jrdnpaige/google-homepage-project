@@ -1,4 +1,77 @@
-.google{
+.g{
+  color: blue;
+  display: inline-block;
+}
+
+.o{
   color: red;
+  display: inline-block;
+
+}
+
+.o2{
+  color: yellow;
+  display: inline-block;
+
+}
+
+.g2{
+  color: blue;
+  display: inline-block;
+}
+
+.l{
+  color: green;
+  display: inline-block;
+}
+
+.e{
+  color: red;
+  display: inline-block;
+}
+
+.google{
+
+}
+}
+.navbar{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color:white;
+  overflow:hidden;
+  text-decoration: none;
+
+
+
+}
+
+li{
+  display: inline;
+  text-decoration: none;
+}
+
+body{
+  margin: 0;
+}
+.topnav-a{
+  float: left;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.topnav-b{
+  float: right;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 16px;
+
+}
+a {
+  text-decoration: none;
+  color: black;
 
 }
