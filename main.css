@@ -1,38 +1,59 @@
 .g{
-  color: blue;
+  color: #4285F4;
   display: inline-block;
+  margin-top: 150px;
+  margin-right: 3px;
+  font-family:'Product Sans' ;
+  font-size: 84px;
 }
 
 .o{
-  color: red;
+  color: #DB4437;
   display: inline-block;
-
+font-family:'Product Sans' ;
+margin-right: 3px;
+font-size: 84px;
 }
 
 .o2{
-  color: yellow;
+  color: #F4B400;
   display: inline-block;
-
+font-family:'Product Sans' ;
+margin-right: 3px;
+font-size: 84px;
 }
 
 .g2{
-  color: blue;
+  color: #4285F4;
   display: inline-block;
+  font-family:'Product Sans' ;
+  margin-right: 3px;
+  font-size: 84px;
 }
 
 .l{
-  color: green;
+  color: #0F9D58;
   display: inline-block;
+  font-family:'Product Sans' ;
+  margin-right: 3px;
+  font-size: 84px;
 }
 
 .e{
-  color: red;
+  color: #DB4437;
   display: inline-block;
+  font-family:'Product Sans' ;
+  margin-right: 3px;
+  font-size: 84px;
 }
 
 .google{
+  text-align: center;
 
 }
+
+
+
 }
 .navbar{
   list-style-type: none;
@@ -57,7 +78,7 @@ body{
 .topnav-a{
   float: left;
   text-align: center;
-  padding: 14px 16px;
+  padding: 0px 16px;
   text-decoration: none;
   font-size: 16px;
 }
@@ -65,7 +86,7 @@ body{
 .topnav-b{
   float: right;
   text-align: center;
-  padding: 14px 16px;
+  padding: 0px 16px;
   text-decoration: none;
   font-size: 16px;
 
